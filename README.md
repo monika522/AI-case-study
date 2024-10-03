@@ -1,5 +1,6 @@
 # AI-case-study
 **#AI--IntrnForte--Customer Insurance Purchases Case Study**
+
 Step 1: Data Preparation Load Dataset: Load the dataset into a pandas DataFrame. Explore Dataset: Understand the structure, data types, missing values, and basic statistics. Handle Missing Values: Impute or drop missing values. Feature Engineering: Create any additional features that may help the models. Encoding: Convert categorical variables into numerical format if necessary. Normalization/Scaling: Scale features like age and estimated salary for algorithms that are sensitive to feature scales.
 
 Step 2: Algorithm Selection Choose the following algorithms:
